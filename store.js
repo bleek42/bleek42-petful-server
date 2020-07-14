@@ -2,7 +2,7 @@
 module.exports = {
   people: ['Randy Lahey', 'Trevor Cory', 'Jim Lahey'],
 
-  dogs: [
+  dog: [
     {
       age: 3,
       breed: 'Golden Retriever',
@@ -128,7 +128,7 @@ module.exports = {
     },
   ],
 
-  cats: [
+  cat: [
     {
       age: 2,
       breed: 'Bengal',
