@@ -1,5 +1,6 @@
 const app = require('../modules/app/app');
 const store = require('../store');
+const { expect } = require('chai');
 
 
 describe('people endpoints', () => {
